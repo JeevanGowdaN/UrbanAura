@@ -24,7 +24,8 @@ _Add screenshots or UI previews if desired._
 
 ## 📁 Project Structure
 
-UrbanAura/
+UrbanAura/  
+
 ├── index.html # Main HTML file  
 
 ├── style.css # Custom styling  
