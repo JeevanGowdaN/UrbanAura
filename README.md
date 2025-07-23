@@ -25,10 +25,10 @@ _Add screenshots or UI previews if desired._
 ## 📁 Project Structure
 
 UrbanAura/
-├── index.html # Main HTML file
-├── style.css # Custom styling
-├── script.js # JavaScript functionality
-└── /assets # Images, icons, fonts, etc.
+├── index.html # Main HTML file 
+├── style.css # Custom styling 
+├── script.js # JavaScript functionality 
+└── /assets # Images, icons, fonts, etc. 
 
 
 ## 🛠️ Tech Stack
