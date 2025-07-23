@@ -15,6 +15,13 @@
 
 👉 [UrbanAura on GitHub Pages](https://JeevanGowdaN.github.io/UrbanAura/)
 
+## 📷 Screenshots
+
+_Add screenshots or UI previews if desired._
+
+![WebPage](WebPage.png)
+
+
 ## 📁 Project Structure
 
 UrbanAura/
@@ -28,13 +35,8 @@ UrbanAura/
 
 - HTML5
 - CSS3 (Responsive Design)
-- JavaScript (Vanilla)
+- JavaScript
 
-## 📷 Screenshots
-
-_Add screenshots or UI previews if desired._
-
-![cap](cap.jpg)
 
 ## 🤝 Contribution
 
